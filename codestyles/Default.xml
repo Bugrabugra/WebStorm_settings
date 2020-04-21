@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <JSCodeStyleSettings version="0">
+    <option name="OBJECT_LITERAL_WRAP" value="2" />
+  </JSCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
