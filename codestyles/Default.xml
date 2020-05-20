@@ -4,8 +4,12 @@
     <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,small,span,strike,strong,sub,sup,textarea,tt,u,var,h1,h2,h3,h4,h5,h6" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
-    <option name="OBJECT_LITERAL_WRAP" value="2" />
+    <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
+    <option name="OBJECT_LITERAL_WRAP" value="1" />
   </JSCodeStyleSettings>
+  <JSON>
+    <option name="OBJECT_WRAPPING" value="0" />
+  </JSON>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -13,7 +17,13 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="IF_BRACE_FORCE" value="3" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
