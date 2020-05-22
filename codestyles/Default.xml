@@ -23,6 +23,8 @@
   <codeStyleSettings language="JavaScript">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="2" />
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
