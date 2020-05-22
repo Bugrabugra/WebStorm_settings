@@ -1,12 +1,12 @@
 <templateSet group="JavaScript">
-  <template name="func" value="function $NAME$($VAR$) {&#10;  $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="func" value="function $NAME$($VAR$) {&#10;  $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="if" value="if ($CONDITION$) {&#10;  $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="if" value="if ($CONDITION$) {&#10;  $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
