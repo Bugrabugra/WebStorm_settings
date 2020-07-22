@@ -6,7 +6,7 @@
   <JSCodeStyleSettings version="0">
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
-    <option name="OBJECT_LITERAL_WRAP" value="1" />
+    <option name="OBJECT_LITERAL_WRAP" value="2" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
   </JSCodeStyleSettings>
   <JSON>
@@ -32,6 +32,7 @@
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
     <option name="BLANK_LINES_AROUND_CLASS" value="2" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
