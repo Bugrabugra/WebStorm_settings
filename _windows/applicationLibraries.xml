@@ -1,0 +1,19 @@
+<application>
+  <component name="libraryTable">
+    <library name="dojo" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Dojo" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.arcgis.com_4.16_dojo_dojo.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.arcgis.com_4.16_dojo_dojo.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://dojotoolkit.org/api" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+  </component>
+</application>
