@@ -196,4 +196,7 @@
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="ren" value="&#10;render() {&#10;    return (&#10;        &lt;div&gt;&#10;            $END$&#10;        &lt;/div&gt;&#10;    );&#10;}&#10;" description="When called, it should examine this.props and this.state and return a single child element." toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
