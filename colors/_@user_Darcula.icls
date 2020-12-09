@@ -3,10 +3,16 @@
     <property name="created">2020-04-21T09:21:57</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-11-16T12:22:36</property>
+    <property name="modified">2020-12-09T10:44:30</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
+    <option name="CSS.COMMENT">
+      <value>
+        <option name="FOREGROUND" value="f03494" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="29baa8" />
