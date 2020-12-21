@@ -1,0 +1,12 @@
+<templateSet group="Vue">
+  <template name="vref" value="import {ref} from &quot;vue&quot;;" description="import ref" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="vsetup" value="setup() {&#10;  return {&#10;    $END$&#10;  }&#10;}" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
