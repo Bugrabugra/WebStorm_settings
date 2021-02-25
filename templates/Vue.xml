@@ -14,4 +14,9 @@
     <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="vrea" value="import {reactive} from &quot;vue&quot;;" description="import reactive" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
