@@ -4,6 +4,7 @@
       <mapping pattern="Resources" type="PLAIN_TEXT" />
       <mapping pattern="link" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping ext="geojson" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
