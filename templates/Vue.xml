@@ -23,6 +23,7 @@
     <variable name="TIMEOUT" expression="" defaultValue="1000" alwaysStopAt="true" />
     <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="ECMAScript6" value="true" />
       <option name="VUE_INSIDE_TAG" value="false" />
       <option name="VUE_SCRIPT" value="false" />
       <option name="VUE_TEMPLATE" value="false" />
