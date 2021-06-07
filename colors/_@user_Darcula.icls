@@ -3,7 +3,7 @@
     <property name="created">2020-04-21T09:21:57</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2021-05-11T16:33:02</property>
+    <property name="modified">2021-06-07T10:41:36</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -19,6 +19,12 @@
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="50d2b9" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="72ab65" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -41,6 +47,9 @@
       <value>
         <option name="FOREGROUND" value="81d0fe" />
       </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
     </option>
     <option name="JS.BLOCK_COMMENT">
       <value>
@@ -70,6 +79,20 @@
     <option name="JS.STRING">
       <value>
         <option name="FOREGROUND" value="ffa8a0" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
