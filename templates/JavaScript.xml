@@ -20,4 +20,20 @@
       <option name="JSX_HTML" value="false" />
     </context>
   </template>
+  <template name="dq" value="const $NAME$ = document.querySelector(&quot;$QUERY$&quot;);" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="QUERY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
+  <template name="dqa" value="const $NAME$ = document.querySelectorAll(&quot;$QUERY$&quot;);" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="QUERY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
 </templateSet>
