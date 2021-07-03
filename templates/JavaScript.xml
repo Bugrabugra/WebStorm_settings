@@ -28,7 +28,7 @@
       <option name="JSX_HTML" value="false" />
     </context>
   </template>
-  <template name="dqa" value="const $NAME$ = document.querySelectorAll(&quot;$QUERY$&quot;);" toReformat="true" toShortenFQNames="true">
+  <template name="dqa" value="const $NAME$ = document.querySelectorAll(&quot;$QUERY$&quot;);" description="" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="QUERY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
