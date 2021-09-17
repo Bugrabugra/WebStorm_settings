@@ -14,6 +14,9 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc, *.html" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
