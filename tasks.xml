@@ -1,0 +1,9 @@
+<application>
+  <component name="TaskStorage">
+    <tasks>
+      <task priority="Normal" completed="false" estimated="0" created="1633068978413" actual="0" highlighted="false" highlightingtype="Red" title="Frontendte hataların düzgünce süzülmesi" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1633069021183" actual="0" highlighted="false" highlightingtype="Red" title="Kullanıcılara POI'lerin ataçalanabilmesi" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1633069053469" actual="0" highlighted="false" highlightingtype="Red" title="Kullanıcılara kuralların ataçlanması" description="" />
+    </tasks>
+  </component>
+</application>
