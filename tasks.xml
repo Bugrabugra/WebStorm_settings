@@ -5,7 +5,7 @@
       <task priority="Normal" completed="true" estimated="0" created="1633069021183" actual="0" highlighted="false" highlightingtype="Red" title="Kullanıcılara POI'lerin ataçalanabilmesi" description="" />
       <task priority="Normal" completed="true" estimated="0" created="1633069053469" actual="0" highlighted="false" highlightingtype="Red" title="Kullanıcılara kuralların ataçlanması" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1633336681090" actual="0" highlighted="false" highlightingtype="Red" title="User update ederken şifrenin hashlanmesi" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1633344850005" actual="0" highlighted="false" highlightingtype="Red" title="poi, user, rule, warning backendinin yazılması" description="" />
+      <task priority="Normal" completed="true" estimated="0" created="1633344850005" actual="0" highlighted="false" highlightingtype="Red" title="poi, user, rule, warning backendinin yazılması" description="" />
     </tasks>
   </component>
 </application>
