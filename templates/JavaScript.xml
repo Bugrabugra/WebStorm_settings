@@ -51,7 +51,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ii" value="import {$object$} from &quot;$library$&quot;;" toReformat="false" toShortenFQNames="true">
+  <template name="ii" value="import {$object$} from &quot;$library$&quot;;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="library" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="object" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
