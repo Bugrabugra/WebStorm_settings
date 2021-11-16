@@ -210,12 +210,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rst" value="const [$variable$, set$variableUpperCase$] = useState($default$);&#10;" description="React useState" toReformat="false" toShortenFQNames="true">
-    <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="variableUpperCase" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="default" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
+  <template name="useState" value="const [$state$, set$setState$] = useState($initState$);$END$" description="useState" toReformat="true" toShortenFQNames="true">
+    <variable name="state" expression="" defaultValue="&quot;state&quot;" alwaysStopAt="true" />
+    <variable name="setState" expression="capitalize(state)" defaultValue="" alwaysStopAt="true" />
+    <variable name="initState" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
