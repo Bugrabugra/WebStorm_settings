@@ -216,7 +216,7 @@
     <variable name="initState" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="rcss" value="import classes from &quot;$css$&quot;;$END$" toReformat="false" toShortenFQNames="true">
+  <template name="rcss" value="import classes from &quot;$css$&quot;;$END$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="css" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
