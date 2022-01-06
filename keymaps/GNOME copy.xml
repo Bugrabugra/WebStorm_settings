@@ -4,5 +4,10 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="context_menu" />
+  </action>
+  <action id="ShowPopupMenu" />
   <action id="StepOver" />
 </keymap>
