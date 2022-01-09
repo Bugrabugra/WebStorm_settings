@@ -55,6 +55,23 @@
     <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
+  </template>
+  <template name="p" value="&lt;p&gt;$END$&lt;/p&gt;" description="&lt;p&gt;...&lt;/p&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="nav" value="&lt;nav&gt;$END$&lt;/nav&gt;" description="&lt;nav&gt;...&lt;/nav&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="VUE_INSIDE_TAG" value="true" />
+      <option name="VUE_TEMPLATE" value="true" />
+    </context>
   </template>
 </templateSet>
