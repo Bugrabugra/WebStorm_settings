@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="aaa" type="AUTO_DETECTED" />
       <mapping pattern="meteor-poi" type="AUTO_DETECTED" />
+      <mapping pattern="alertReducer" type="AUTO_DETECTED" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="link" type="PLAIN_TEXT" />
       <mapping pattern="Resources" type="PLAIN_TEXT" />
