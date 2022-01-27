@@ -13,7 +13,7 @@
   <JSCodeStyleSettings version="0">
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
-    <option name="OBJECT_LITERAL_WRAP" value="2" />
+    <option name="OBJECT_LITERAL_WRAP" value="1" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
   <JSON>
@@ -50,9 +50,11 @@
     <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
     <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="1" />
     <option name="IF_BRACE_FORCE" value="3" />
-    <option name="WRAP_ON_TYPING" value="0" />
+    <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
