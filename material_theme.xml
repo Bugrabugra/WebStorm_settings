@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="highlightThickness" value="1" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="tabsHeight" value="24" />
+    <option name="accentColor" value="416a9b" />
+    <option name="selectedTheme" value="NATIVE" />
+    <option name="userId" value="-63b1db48:1757f3608be:-8000" />
+    <option name="version" value="5.2.0" />
+  </component>
+</application>
