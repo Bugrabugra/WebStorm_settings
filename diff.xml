@@ -26,6 +26,7 @@
     <option name="PLACES_MAP">
       <entry key="Merge">
         <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
           <option name="SHOW_LINE_NUMBERS" value="false" />
         </PlaceSettings>
       </entry>
