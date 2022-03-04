@@ -3,7 +3,7 @@
     <property name="created">2020-04-21T09:21:57</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2022-02-03T11:00:53</property>
+    <property name="modified">2022-03-01T13:02:18</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -35,6 +35,12 @@
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="50d2b9" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="176139" />
+        <option name="ERROR_STRIPE_COLOR" value="447152" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
