@@ -3,7 +3,7 @@
     <property name="created">2020-04-21T09:21:57</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2022-03-01T13:02:18</property>
+    <property name="modified">2022-03-22T09:30:48</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -59,7 +59,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="3b3b22" />
+        <option name="BACKGROUND" value="404247" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_1_CUSTOM">
@@ -69,7 +69,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2b3b2b" />
+        <option name="BACKGROUND" value="3d4743" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
@@ -79,7 +79,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="3b2b3b" />
+        <option name="BACKGROUND" value="464941" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
@@ -89,7 +89,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="243939" />
+        <option name="BACKGROUND" value="4c443f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
@@ -99,7 +99,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="3f3534" />
+        <option name="BACKGROUND" value="4c3d3c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5_CUSTOM">
@@ -109,7 +109,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="3f3032" />
+        <option name="BACKGROUND" value="4c3739" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6_CUSTOM">
