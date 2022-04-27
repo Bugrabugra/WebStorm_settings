@@ -3,7 +3,7 @@
     <property name="created">2020-04-21T09:21:57</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2022-03-27T14:02:17</property>
+    <property name="modified">2022-04-26T12:43:30</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -155,6 +155,12 @@
     <option name="JS.NUMBER">
       <value>
         <option name="FOREGROUND" value="d64d87" />
+      </value>
+    </option>
+    <option name="JS.OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="a4ec39" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.STRING">
