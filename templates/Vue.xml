@@ -1,0 +1,34 @@
+<templateSet group="Vue">
+  <template name="vref" value="import {ref} from &quot;vue&quot;;" description="import ref" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="vsetup" value="setup() {&#10;  $END$&#10;  &#10;  return {&#10;    &#10;  }&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="vdata" value="data() {&#10; return {&#10;  $key$: $value$$END$&#10; }&#10;}," description="Vue component data" toReformat="true" toShortenFQNames="true">
+    <variable name="key" expression="" defaultValue="&quot;key&quot;" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="vrea" value="import {reactive} from &quot;vue&quot;;" description="import reactive" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="vtime" value="setTimeout(() =&gt; {&#10;  $CODE$&#10;}, $TIMEOUT$)" description="timeout" toReformat="true" toShortenFQNames="true">
+    <variable name="TIMEOUT" expression="" defaultValue="1000" alwaysStopAt="true" />
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="VUE_INSIDE_TAG" value="false" />
+      <option name="VUE_SCRIPT" value="false" />
+      <option name="VUE_TEMPLATE" value="false" />
+      <option name="VUE_TOP_LEVEL" value="false" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
