@@ -230,6 +230,7 @@
     </context>
   </template>
   <template name="nav" value="&lt;nav&gt;$END$&lt;/nav&gt;" description="&lt;nav&gt;...&lt;/nav&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="JSX_HTML" value="true" />
