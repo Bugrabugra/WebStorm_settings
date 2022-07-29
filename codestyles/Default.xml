@@ -5,6 +5,8 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="80" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="4" />
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
@@ -53,6 +55,7 @@
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="RIGHT_MARGIN" value="80" />
     <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
     <option name="BLANK_LINES_AROUND_CLASS" value="2" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
@@ -79,6 +82,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
+    <option name="RIGHT_MARGIN" value="80" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
