@@ -64,4 +64,12 @@
     <variable name="ARGUMENTS" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="nimp" value="import $VAR$ from &quot;$MODULE$&quot;;" description="Import" toReformat="false" toShortenFQNames="true">
+    <variable name="MODULE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
 </templateSet>
