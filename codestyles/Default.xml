@@ -5,7 +5,7 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="80" />
+  <option name="RIGHT_MARGIN" value="100" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
@@ -60,7 +60,7 @@
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
-    <option name="RIGHT_MARGIN" value="80" />
+    <option name="RIGHT_MARGIN" value="100" />
     <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
     <option name="BLANK_LINES_AROUND_CLASS" value="2" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
