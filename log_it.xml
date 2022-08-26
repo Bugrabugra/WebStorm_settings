@@ -1,5 +1,5 @@
 <application>
   <component name="LogItSettings">
-    <option name="pattern" value="console.log(&quot;&quot;, &quot;$$ -&gt;&quot;, $$);" />
+    <option name="pattern" value="console.log(&quot;$$ -&gt;&quot;, $$);" />
   </component>
 </application>
