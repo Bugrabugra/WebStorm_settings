@@ -15,6 +15,8 @@
     <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
   <template name="textarea" value="&lt;textarea name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot; cols=&quot;$COL$&quot; rows=&quot;$ROWS$&quot;&gt;$END$&lt;/textarea&gt;" description="&lt;textarea name=&quot;...&quot; id=&quot;...&quot; cols=&quot;30&quot; rows=&quot;10&quot;&gt;...&lt;/textarea&gt;" toReformat="true" toShortenFQNames="true">
