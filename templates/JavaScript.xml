@@ -12,8 +12,9 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="nreq" value="const $VAR$ = require(&quot;$MODULE$&quot;);" description="NodeJs require" toReformat="false" toShortenFQNames="true">
+  <template name="nreq" value="const $VAR$ = require(&quot;$MODULE$&quot;)$KEY$;" description="NodeJs require" toReformat="false" toShortenFQNames="true">
     <variable name="MODULE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
