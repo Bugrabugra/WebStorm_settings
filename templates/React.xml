@@ -214,6 +214,7 @@
     <variable name="state" expression="" defaultValue="&quot;state&quot;" alwaysStopAt="true" />
     <variable name="setState" expression="capitalize(state)" defaultValue="" alwaysStopAt="true" />
     <variable name="initState" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="rcss" value="import classes from &quot;$css$&quot;;$END$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="css" expression="" defaultValue="" alwaysStopAt="true" />
@@ -224,6 +225,7 @@
   <template name="useEffect" value="useEffect(() =&gt; {&#10;  $effect$&#10;}, [$input$]);&#10;$END$" description="useEffect" toReformat="true" toShortenFQNames="true">
     <variable name="effect" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="input" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="rsf" value="import React from &quot;react&quot;;&#10;&#10;function $TM_FILENAME_BASE$(props) {&#10; return (&#10;  $1$&#10; );}&#10;&#10;export default $TM_FILENAME_BASE$;" description="Creates a stateless React component as a named function without PropTypes" toReformat="true" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="&quot;&lt;div&gt;&lt;/div&gt;&quot;" alwaysStopAt="true" />
