@@ -3,7 +3,7 @@
     <property name="created">2022-01-04T10:55:15</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-03-22T09:30:48</property>
+    <property name="modified">2022-10-27T15:48:44</property>
     <property name="originalScheme">Twilight</property>
   </metaInfo>
   <colors>
@@ -770,15 +770,15 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_FILTER" baseAttributes="" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
+    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="9b703f" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="" />
-    <option name="HAML_RUBY_START" baseAttributes="" />
+    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+    <option name="HAML_RUBY_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HAML_STRING">
       <value>
         <option name="FOREGROUND" value="8f9d6a" />
@@ -789,14 +789,14 @@
         <option name="FOREGROUND" value="8f9d6a" />
       </value>
     </option>
-    <option name="HAML_TAG" baseAttributes="" />
+    <option name="HAML_TAG" baseAttributes="TEXT" />
     <option name="HAML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ac885b" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="" />
-    <option name="HAML_XHTML" baseAttributes="" />
+    <option name="HAML_TEXT" baseAttributes="TEXT" />
+    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="9b703f" />
@@ -847,7 +847,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="383a3f" />
+        <option name="BACKGROUND" value="2c2c30" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_1_CUSTOM">
@@ -857,7 +857,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="353f3c" />
+        <option name="BACKGROUND" value="29302e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
@@ -867,7 +867,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="3e4139" />
+        <option name="BACKGROUND" value="2f312c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
@@ -877,7 +877,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="443c37" />
+        <option name="BACKGROUND" value="332e2b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
@@ -887,7 +887,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="443534" />
+        <option name="BACKGROUND" value="332929" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5_CUSTOM">
@@ -897,7 +897,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="442f31" />
+        <option name="BACKGROUND" value="332627" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6_CUSTOM">
@@ -912,7 +912,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="391818" />
+        <option name="BACKGROUND" value="311717" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR_CUSTOM">

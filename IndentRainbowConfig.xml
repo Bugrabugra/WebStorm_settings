@@ -1,6 +1,6 @@
 <application>
   <component name="IndentRainbowConfig">
     <option name="bigFilesLineThreshold" value="2000" />
-    <option name="opacityMultiplier" value="0.3" />
+    <option name="opacityMultiplier" value="-0.41" />
   </component>
 </application>
