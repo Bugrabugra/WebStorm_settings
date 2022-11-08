@@ -4,7 +4,8 @@
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
     <option name="enableRainbowAngleBrackets" value="false" />
     <option name="numberOfColors" value="10" />
+    <option name="rainbowVariablesOptionShowed" value="true" />
     <option name="suppressBigFileCheck" value="true" />
-    <option name="version" value="2022.3.2-ij" />
+    <option name="version" value="2022.3.3-ij" />
   </component>
 </application>
