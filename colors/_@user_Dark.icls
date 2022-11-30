@@ -3,7 +3,7 @@
     <property name="created">2022-11-29T10:31:11</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.3.0.0</property>
-    <property name="modified">2022-11-29T10:33:24</property>
+    <property name="modified">2022-11-30T10:26:27</property>
     <property name="originalScheme">Dark</property>
   </metaInfo>
   <colors>
@@ -77,37 +77,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="393b42" />
+        <option name="BACKGROUND" value="373940" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="36403f" />
+        <option name="BACKGROUND" value="353d3d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="3d413d" />
+        <option name="BACKGROUND" value="3b3e3b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="423d3c" />
+        <option name="BACKGROUND" value="403b3a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="423739" />
+        <option name="BACKGROUND" value="403637" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="423337" />
+        <option name="BACKGROUND" value="403135" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="3d1f21" />
+        <option name="BACKGROUND" value="3c1f21" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
