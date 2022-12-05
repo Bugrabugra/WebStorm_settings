@@ -1,12 +1,11 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="nodejsPath" value="$USER_HOME$/.nvm/versions/node/v16.18.0/bin/node" />
-    <option name="secretsNeverBeenAnalysed" value="false" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonarcloud.io" />
-          <token>dfc9df9edf9bdf9cdf92df93df9bdf9fdf9cdfc8dfcfdfc8df92df9fdf9bdf98df92df9edfcbdfc9dfc9dfc9df9bdfcfdf9cdf99dfc8df9fdf9bdf98dfcbdf93df93df99dfccdf99df9edf98df93df9a</token>
+          <token>df98df92df93df92dfcedf9bdf9edf9ddfcedf9edf9bdf93dfcfdfccdf9fdfccdfccdfccdf93dfcfdf92df9adf9adf9fdf9bdf9edf98df98dfccdf9bdf98df99df9cdf99df93df99dfc8dfc9dfcedf93</token>
           <option name="name" value="sonarcloud" />
           <organizationKey>triomobil</organizationKey>
         </SonarQubeServer>
