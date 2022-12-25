@@ -36,4 +36,18 @@
     <variable name="NAME" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="qs" value="const $VARIABLE$ = document.querySelector(&quot;$SELECTOR$&quot;);&#10;$END$" description="query selector" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SELECTOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="qsa" value="const $VARIABLE$ = document.querySelectorAll(&quot;$SELECTOR$&quot;);&#10;$END$" description="query selector all" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SELECTOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
