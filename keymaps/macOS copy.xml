@@ -1,9 +1,12 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Move" />
+  <action id="ChangesView.SetDefault" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="GotoAction" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
@@ -11,4 +14,5 @@
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="StepOver" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
