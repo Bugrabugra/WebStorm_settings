@@ -13,6 +13,7 @@
         <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="Encoding" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
       </map>
     </option>
   </component>
