@@ -3,13 +3,17 @@
     <words>
       <w>canbus</w>
       <w>configapi</w>
+      <w>dijitaltesis</w>
       <w>dynamix</w>
       <w>intl</w>
+      <w>iotdynamix</w>
       <w>nbus</w>
       <w>nbuses</w>
       <w>nunchucks</w>
       <w>pois</w>
       <w>saveparameters</w>
+      <w>telematik</w>
+      <w>triomobil</w>
     </words>
   </component>
 </application>
