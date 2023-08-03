@@ -3,7 +3,7 @@
     <property name="created">2020-04-21T09:21:57</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2023-08-03T09:48:27</property>
+    <property name="modified">2023-08-03T11:09:53</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -140,8 +140,9 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="c77447" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="ffc66d" />
+        <option name="BACKGROUND" value="124d6a" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -158,7 +159,6 @@
     <option name="JS.LOCAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="ffc66d" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
