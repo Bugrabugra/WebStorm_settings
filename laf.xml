@@ -3,6 +3,8 @@
     <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="ExperimentalDark" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="Darcula copy" />
+      <laf-to-scheme laf="Dark" scheme="Darcula copy" />
+      <laf-to-scheme laf="Light" scheme="_@user_High contrast" />
     </lafs-to-previous-schemes>
   </component>
 </application>
