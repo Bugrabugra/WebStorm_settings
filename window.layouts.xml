@@ -1,0 +1,253 @@
+<application>
+  <component name="ToolWindowLayout"><![CDATA[{
+  "layouts": {
+    "Custom": {
+      "v1": [
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "weight": 0.33025026
+        },
+        {
+          "id": "Find",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Run",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.33025026
+        },
+        {
+          "id": "Debug",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "TODO",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Inspection",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Problems View",
+          "order": 6,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "GraphQL",
+          "order": 7,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Quokka",
+          "order": 8,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 9,
+          "anchor": "BOTTOM",
+          "weight": 0.33025026
+        },
+        {
+          "id": "Terminal",
+          "order": 10,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "isVisible": true,
+          "weight": 0.23843537
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.2180272
+        },
+        {
+          "id": "Notifications",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25,
+          "isSplit": true
+        },
+        {
+          "id": "Bookmarks",
+          "order": 3,
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "Structure",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isSplit": true
+        }
+      ],
+      "v2": [
+        {
+          "id": "Pull Requests",
+          "weight": 0.25068027
+        },
+        {
+          "id": "VcsChanges",
+          "weight": 0.19829932
+        },
+        {
+          "id": "TODO",
+          "anchor": "BOTTOM",
+          "weight": 0.3298913
+        },
+        {
+          "id": "Services",
+          "anchor": "BOTTOM",
+          "weight": 0.3298913
+        },
+        {
+          "id": "Structure",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "weight": 0.25054348,
+          "isSplit": true
+        },
+        {
+          "id": "Gulp",
+          "order": 1,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.3298913,
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "weight": 0.3298913,
+          "isSplit": true
+        },
+        {
+          "id": "npm",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.3298913,
+          "isSplit": true
+        },
+        {
+          "id": "Bookmarks",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.3302721,
+          "isSplit": true
+        },
+        {
+          "id": "Version Control",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "weight": 0.3298913
+        },
+        {
+          "id": "Terminal",
+          "order": 6,
+          "anchor": "BOTTOM",
+          "weight": 0.3298913
+        },
+        {
+          "id": "Problems",
+          "order": 7,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 8,
+          "anchor": "BOTTOM",
+          "weight": 0.3298913
+        },
+        {
+          "id": "Quokka",
+          "order": 9,
+          "anchor": "BOTTOM",
+          "weight": 0.3298913
+        },
+        {
+          "id": "GraphQL",
+          "order": 10,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Run",
+          "order": 11,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.3298913
+        },
+        {
+          "id": "SonarLint",
+          "order": 12,
+          "anchor": "BOTTOM",
+          "weight": 0.3298913
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.22755101
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "anchor": "RIGHT",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.22755101
+        },
+        {
+          "id": "Database",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Gradle",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Web Inspector",
+          "order": 5,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.25068027,
+        "bottom": 0.3298913,
+        "right": 0.22755101
+      }
+    }
+  }
+}]]></component>
+</application>
