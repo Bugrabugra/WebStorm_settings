@@ -3,7 +3,7 @@
     <property name="created">2023-08-05T11:37:33</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2023.2.0.0</property>
-    <property name="modified">2023-08-11T16:02:11</property>
+    <property name="modified">2023-08-13T23:43:59</property>
   </metaInfo>
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="1e1e1e" />
@@ -140,9 +140,8 @@
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="ffc66d" />
-        <option name="BACKGROUND" value="4445b" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="JS.KEYWORD">
