@@ -5,6 +5,7 @@
       <mapping pattern="meteor-poi" type="AUTO_DETECTED" />
       <mapping pattern="SearchBar.js" type="AUTO_DETECTED" />
       <mapping pattern="alertReducer" type="AUTO_DETECTED" />
+      <mapping pattern="nest-cli.json" type="JSON" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="link" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
