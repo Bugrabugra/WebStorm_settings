@@ -21,5 +21,8 @@
   <action id="RecentChanges" />
   <action id="SelectVirtualTemplateElement" />
   <action id="StepOver" />
+  <action id="Unwrap">
+    <keyboard-shortcut first-keystroke="meta alt delete" />
+  </action>
   <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
