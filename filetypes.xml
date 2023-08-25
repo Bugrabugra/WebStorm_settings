@@ -5,6 +5,10 @@
       <mapping pattern="meteor-poi" type="AUTO_DETECTED" />
       <mapping pattern="SearchBar.js" type="AUTO_DETECTED" />
       <mapping pattern="alertReducer" type="AUTO_DETECTED" />
+      <mapping ext="postman_environment.json" type="JSON" />
+      <mapping ext="postman_collection.json" type="JSON" />
+      <mapping ext="postman_collection" type="JSON" />
+      <mapping ext="postman_environment" type="JSON" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="link" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
