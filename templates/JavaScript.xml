@@ -50,4 +50,14 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="tc" value="try {&#10;  $TRY$&#10;} catch(error) {&#10;  $CATCH$&#10;}" description="try {} catch(error) {}" toReformat="false" toShortenFQNames="true">
+    <variable name="TRY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CATCH" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="REACT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
