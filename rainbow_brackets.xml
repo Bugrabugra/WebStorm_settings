@@ -6,8 +6,10 @@
     <option name="indentGuidesOptions" value="Only selected indent guide" />
     <option name="numberOfColors" value="10" />
     <option name="rainbowVariablesOptionShowed" value="true" />
+    <option name="suppressAdvancedIndentGuidesBanner" value="true" />
     <option name="suppressBigFileCheck" value="true" />
     <option name="suppressXMLCheck" value="true" />
+    <option name="suppressYAMLCheck" value="true" />
     <option name="version" value="2023.3.4" />
   </component>
 </application>
