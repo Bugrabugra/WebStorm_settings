@@ -32,9 +32,14 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="arf" value="const $NAME$ = () =&gt; {&#10;$SELECTION$&#10;};" description="Surround with Arrow Function" toReformat="true" toShortenFQNames="true">
+  <template name="arf" value="const $NAME$ = $ASYNC$ ($PARAMS$) =&gt; {&#10;  $SELECTION$&#10;};" description="Surround with Arrow Function" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="complete()" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <variable name="ASYNC" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="REACT" value="true" />
+    </context>
   </template>
   <template name="qs" value="const $VARIABLE$ = document.querySelector(&quot;$SELECTOR$&quot;);&#10;$END$" description="query selector" toReformat="false" toShortenFQNames="true">
     <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
