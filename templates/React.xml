@@ -28,6 +28,7 @@
     <variable name="componentName" expression="fileNameWithoutExtension()" defaultValue="&quot;MyComponent&quot;" alwaysStopAt="true" />
     <context>
       <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
+      <option name="TS_TOP_LEVEL_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>

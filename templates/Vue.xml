@@ -24,6 +24,7 @@
     <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
       <option name="VUE_INSIDE_TAG" value="false" />
       <option name="VUE_SCRIPT" value="false" />
       <option name="VUE_TEMPLATE" value="false" />

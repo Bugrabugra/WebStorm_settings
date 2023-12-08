@@ -46,6 +46,7 @@
     <variable name="SELECTOR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="qsa" value="const $VARIABLE$ = document.querySelectorAll(&quot;$SELECTOR$&quot;);&#10;$END$" description="query selector all" toReformat="false" toShortenFQNames="true">
@@ -53,6 +54,7 @@
     <variable name="SELECTOR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="tc" value="try {&#10;  $TRY$&#10;} catch(error) {&#10;  $CATCH$&#10;}" description="try {} catch(error) {}" toReformat="false" toShortenFQNames="true">
