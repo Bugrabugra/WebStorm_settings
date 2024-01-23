@@ -6,6 +6,7 @@
       <mapping pattern="SearchBar.js" type="AUTO_DETECTED" />
       <mapping pattern="alertReducer" type="AUTO_DETECTED" />
       <mapping ext="dev" type="Dockerfile" />
+      <mapping ext="prod" type="Native" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="link" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
