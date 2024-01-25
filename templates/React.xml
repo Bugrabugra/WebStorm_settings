@@ -18,8 +18,9 @@
   <template name="con" value="constructor(props) {&#10;    super(props);&#10;    $END$&#10;}&#10;" description="Adds a default constructor for the class that contains props as arguments" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
-  <template name="nrsc" value="export default function $componentName$() {&#10;$END$&#10;};" description="Creates a stateless React component without PropTypes and ES6 module system" toReformat="true" toShortenFQNames="true">
+  <template name="nrsc" value="export default function $componentName$($props$) {&#10;$END$&#10;};" description="Creates a stateless React component without PropTypes and ES6 module system" toReformat="true" toShortenFQNames="true">
     <variable name="componentName" expression="fileNameWithoutExtension()" defaultValue="&quot;MyComponent&quot;" alwaysStopAt="true" />
+    <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
       <option name="TS_TOP_LEVEL_STATEMENT" value="true" />
