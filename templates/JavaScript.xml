@@ -67,4 +67,13 @@
       <option name="Vue" value="true" />
     </context>
   </template>
+  <template name="eaf" value="export async function $name$($params$) {&#10;  $code$&#10;}" description="Export async function" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
