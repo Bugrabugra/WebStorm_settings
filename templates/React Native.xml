@@ -1,0 +1,11 @@
+<templateSet group="React Native">
+  <template name="rnsc" value="const $component$ = () =&gt; {&#10;  return (&#10;    $end$&#10;  );&#10;};&#10;&#10;export default $component$;&#10;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="component" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="REACT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
