@@ -8,7 +8,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="rnss" value="const styles = StyleSheet.create({&#10;  $key$&#10;})" description="React Native style sheet" toReformat="false" toShortenFQNames="true">
+  <template name="rnss" value="const styles = StyleSheet.create({&#10;  $key$&#10;})" description="React Native style sheet" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
