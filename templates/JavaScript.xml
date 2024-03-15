@@ -76,4 +76,14 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="earf" value="export const $NAME$ = $ASYNC$ ($PARAMS$) =&gt; {&#10;  $SELECTION$&#10;};" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ASYNC" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="REACT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
