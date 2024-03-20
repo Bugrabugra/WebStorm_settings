@@ -2,6 +2,17 @@
   <component name="GitToolBoxAppSettings2">
     <option name="autoFetchIntervalMinutes" value="5" />
     <option name="blameInlineAuthorNameType" value="FULL" />
+    <option name="commitMessageValidationConfig">
+      <CommitMessageValidationConfig>
+        <option name="regexConfig">
+          <RegexConfig>
+            <option name="expression" value="(?:fix|chore|docs|feat|refactor|style|test)(?:\(.*\))?: [A-Za-z].*" />
+            <option name="testInput" value="fix: deneme" />
+          </RegexConfig>
+        </option>
+      </CommitMessageValidationConfig>
+    </option>
+    <option name="commitMessageValidationEnabled" value="true" />
     <option name="repositoriesConfig">
       <RepositoriesConfig>
         <configForRepoType>
