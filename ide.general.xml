@@ -18,6 +18,7 @@
         <entry key="Memory" value="true" />
         <entry key="QuokkaStatusBarWidget" value="false" />
         <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="TailwindFormatter" value="false" />
       </map>
     </option>
   </component>
