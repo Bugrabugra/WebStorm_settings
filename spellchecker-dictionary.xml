@@ -14,6 +14,7 @@
       <w>dynamix</w>
       <w>fleetus</w>
       <w>floorplan</w>
+      <w>gridlist</w>
       <w>hasnotsent</w>
       <w>hassent</w>
       <w>intl</w>
@@ -26,7 +27,9 @@
       <w>mins</w>
       <w>nbus</w>
       <w>nbuses</w>
+      <w>nodevalue</w>
       <w>nunchucks</w>
+      <w>parameterlist</w>
       <w>passthrough</w>
       <w>pexels</w>
       <w>piechart</w>

@@ -11,6 +11,7 @@
       <mapping pattern="link" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Resources" type="PLAIN_TEXT" />
+      <mapping ext="licenses" type="PLAIN_TEXT" />
       <mapping ext="geojson" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
