@@ -3,6 +3,16 @@
     <option name="nodejsPath" value="$USER_HOME$/.nvm/versions/node/v21.1.0/bin/node" />
     <option name="rulesByKey">
       <map>
+        <entry key="Web:S5264">
+          <value>
+            <Rule active="false" key="Web:S5264" />
+          </value>
+        </entry>
+        <entry key="Web:S6819">
+          <value>
+            <Rule active="false" key="Web:S6819" />
+          </value>
+        </entry>
         <entry key="typescript:S2187">
           <value>
             <Rule active="false" key="typescript:S2187" />
@@ -22,7 +32,9 @@
       </list>
     </option>
     <rules>
+      <Rule active="false" key="Web:S6819" />
       <Rule active="false" key="typescript:S2187" />
+      <Rule active="false" key="Web:S5264" />
     </rules>
   </component>
 </application>
