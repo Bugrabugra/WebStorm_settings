@@ -18,6 +18,11 @@
             <Rule active="false" key="typescript:S2187" />
           </value>
         </entry>
+        <entry key="typescript:S6757">
+          <value>
+            <Rule active="false" key="typescript:S6757" />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="secretsNeverBeenAnalysed" value="false" />
@@ -35,6 +40,7 @@
       <Rule active="false" key="typescript:S2187" />
       <Rule active="false" key="Web:S6819" />
       <Rule active="false" key="Web:S5264" />
+      <Rule active="false" key="typescript:S6757" />
     </rules>
   </component>
 </application>
