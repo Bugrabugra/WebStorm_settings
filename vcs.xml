@@ -17,5 +17,6 @@
       </map>
     </option>
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="SHOW_TAG_NAMES" value="true" />
   </component>
 </application>
