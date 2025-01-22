@@ -19,6 +19,7 @@
       <w>bylabel</w>
       <w>canbus</w>
       <w>carpark</w>
+      <w>cascader</w>
       <w>checkable</w>
       <w>cihaz</w>
       <w>circlemarker</w>
@@ -98,6 +99,7 @@
       <w>piechart</w>
       <w>pocock</w>
       <w>pois</w>
+      <w>popconfirm</w>
       <w>popupclose</w>
       <w>popupopen</w>
       <w>preallocated</w>
