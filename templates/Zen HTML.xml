@@ -536,6 +536,8 @@
     <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
   <template name="h3" value="&lt;h3&gt;$END$&lt;/h3&gt;" description="&lt;h3&gt;...&lt;/h3&gt;" toReformat="false" toShortenFQNames="true">
