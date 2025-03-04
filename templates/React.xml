@@ -35,7 +35,7 @@
     <variable name="input" expression="" defaultValue="&quot;input&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="rscc" value="const $componentName$ = $async$ ($props$) =&gt; {&#10;    return (&#10;        &lt;div&gt;&#10;            $END$&#10;        &lt;/div&gt;&#10;    );&#10;};&#10;&#10;export default $componentName$;&#10;" description="Creates a stateless React component without PropTypes and ES6 module system" toReformat="false" toShortenFQNames="true">
+  <template name="rscc" value="const $componentName$ = $async$ ($props$) =&gt; {&#10;  return (&#10;    &lt;div&gt;&#10;      $END$&#10;    &lt;/div&gt;&#10;  );&#10;};&#10;&#10;export default $componentName$;&#10;" description="Creates a stateless React component without PropTypes and ES6 module system" toReformat="false" toShortenFQNames="true">
     <variable name="componentName" expression="fileNameWithoutExtension()" defaultValue="&quot;MyComponent&quot;" alwaysStopAt="true" />
     <variable name="async" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
