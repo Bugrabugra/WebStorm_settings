@@ -1,16 +1,16 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
+      <mapping pattern="SearchBar.js" type="AUTO_DETECTED" />
       <mapping pattern="aaa" type="AUTO_DETECTED" />
       <mapping pattern="meteor-poi" type="AUTO_DETECTED" />
-      <mapping pattern="SearchBar.js" type="AUTO_DETECTED" />
       <mapping pattern="alertReducer" type="AUTO_DETECTED" />
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="prod" type="Native" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="link" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Resources" type="PLAIN_TEXT" />
+      <mapping pattern="link" type="PLAIN_TEXT" />
       <mapping ext="licenses" type="PLAIN_TEXT" />
       <mapping ext="geojson" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
