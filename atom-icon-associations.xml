@@ -1,0 +1,50 @@
+<application>
+  <component name="Atom Icon Selections Config">
+    <option name="selectedFolderAssociations">
+      <SelectedAssociations>
+        <option name="iconType" value="FOLDER" />
+        <option name="ownAssociations">
+          <map>
+            <entry key="Filter ">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="Filter" />
+                  <option name="pattern" value="Filter" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="Filter " />
+                  <option name="icon" value="/folder.svg" />
+                  <option name="priority" value="10000" />
+                  <option name="folderColor" value="dfe1e5" />
+                  <option name="folderIconColor" value="6b9bfa" />
+                </RegexAssociation>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </SelectedAssociations>
+    </option>
+    <option name="selectedFolderOpenAssociations">
+      <SelectedAssociations>
+        <option name="iconType" value="FOLDER" />
+        <option name="ownAssociations">
+          <map>
+            <entry key="Filter ">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="Filter" />
+                  <option name="pattern" value="Filter" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="Filter " />
+                  <option name="icon" value="/folder.svg" />
+                  <option name="priority" value="10000" />
+                  <option name="folderColor" value="dfe1e5" />
+                  <option name="folderIconColor" value="6b9bfa" />
+                </RegexAssociation>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </SelectedAssociations>
+    </option>
+  </component>
+</application>
