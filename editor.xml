@@ -67,6 +67,9 @@
       </TypeScript.ts.type.hints>
     </settingsMapElement>
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
