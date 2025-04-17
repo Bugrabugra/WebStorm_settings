@@ -3,14 +3,11 @@
     <option name="applyColorsOfRoundForAllBrackets" value="true" />
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
     <option name="enableRainbowAngleBrackets" value="false" />
-    <option name="enableRainbowSquareBrackets" value="false" />
     <option name="indentGuidesOptions" value="Only selected indent guide" />
     <option name="numberOfColors" value="10" />
     <option name="rainbowVariablesOptionShowed" value="true" />
-    <option name="suppressAdvancedIndentGuidesBanner" value="true" />
     <option name="suppressBigFileCheck" value="true" />
     <option name="suppressXMLCheck" value="true" />
-    <option name="suppressYAMLCheck" value="true" />
     <option name="version" value="2024.2.10-241" />
   </component>
 </application>

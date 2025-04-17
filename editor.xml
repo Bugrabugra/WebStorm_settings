@@ -12,6 +12,7 @@
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
+    <option name="defaultPosition" value="Right" />
     <option name="disabledCodeVisionProviderIds">
       <set>
         <option value="references" />
@@ -23,12 +24,6 @@
     <option name="AUTOREPARSE_DELAY" value="0" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
-    <option name="enabledOptions">
-      <map>
-        <entry key="js.type.hints#function.returns" value="false" />
-        <entry key="ts.type.hints#function.returns" value="false" />
-      </map>
-    </option>
     <option name="providerIdToEnabled">
       <map>
         <entry key="js.chain.hints" value="true" />
@@ -46,7 +41,7 @@
         <entry key="ECMAScript 6" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc, *.html" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
@@ -71,9 +66,6 @@
         </Settings>
       </TypeScript.ts.type.hints>
     </settingsMapElement>
-  </component>
-  <component name="InlineCompletionOnboarding">
-    <option name="onboardingFinished" value="true" />
   </component>
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
   <component name="XmlEditorOptions">
