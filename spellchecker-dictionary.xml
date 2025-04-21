@@ -1,170 +1,28 @@
 <application>
   <component name="CachedDictionaryState">
     <words>
-      <w>&quot;ts.since&quot;</w>
-      <w>&quot;ts.until&quot;</w>
-      <w>addrs</w>
-      <w>alarmlist</w>
-      <w>amazonaws</w>
-      <w>antdesign</w>
-      <w>antialiased</w>
-      <w>anticon</w>
-      <w>appwrite</w>
-      <w>authname</w>
-      <w>authpassword</w>
-      <w>bgcolor</w>
-      <w>blackhole</w>
-      <w>bounceend</w>
-      <w>buildnpublish</w>
-      <w>buura</w>
-      <w>bylabel</w>
       <w>canbus</w>
-      <w>carpark</w>
-      <w>cascader</w>
-      <w>checkable</w>
-      <w>cihaz</w>
-      <w>circlemarker</w>
-      <w>clustermouseout</w>
-      <w>clustermouseover</w>
-      <w>commitlint</w>
       <w>configapi</w>
-      <w>contenthash</w>
-      <w>coord</w>
-      <w>crosshair</w>
-      <w>crosshairs</w>
-      <w>darkpurple</w>
-      <w>dashcam</w>
-      <w>datas</w>
-      <w>datatablemonthyear</w>
-      <w>datatablesec</w>
-      <w>datatableyear</w>
       <w>dateday</w>
-      <w>datedaylong</w>
-      <w>datepickerdateyear</w>
-      <w>daterangepicker</w>
-      <w>deactivator</w>
       <w>devicelist</w>
-      <w>digitalstore</w>
       <w>dijitaltesis</w>
-      <w>durumu</w>
       <w>dynamix</w>
-      <w>errorbar</w>
-      <w>exerestart</w>
-      <w>firebaseapp</w>
-      <w>fleetus</w>
-      <w>floorplan</w>
-      <w>floorplans</w>
-      <w>flowbite</w>
-      <w>fortawesome</w>
-      <w>fullhash</w>
-      <w>geekblue</w>
-      <w>geojson</w>
-      <w>gridlist</w>
-      <w>hasnotsent</w>
-      <w>hassent</w>
-      <w>headerfield</w>
-      <w>headervalue</w>
-      <w>hidable</w>
-      <w>highchart</w>
-      <w>imsi</w>
-      <w>increaser</w>
-      <w>initdb</w>
       <w>intl</w>
-      <w>intralogistics</w>
-      <w>iotdashboard</w>
       <w>iotdynamix</w>
-      <w>i̇hlal</w>
-      <w>jammer</w>
-      <w>latests</w>
-      <w>latlng</w>
-      <w>latlngs</w>
-      <w>layoutkey</w>
-      <w>leafletmap</w>
-      <w>lngs</w>
       <w>loginapi</w>
-      <w>mesaj</w>
-      <w>mins</w>
-      <w>mongoimport</w>
       <w>nbus</w>
       <w>nbuses</w>
-      <w>nodevalue</w>
-      <w>nodevice</w>
-      <w>nondisplay</w>
-      <w>nonstationary</w>
-      <w>notif</w>
       <w>nunchucks</w>
-      <w>oday</w>
-      <w>oluştur</w>
-      <w>oluşturuluyor</w>
-      <w>orderitems</w>
-      <w>parameterlist</w>
-      <w>passthrough</w>
-      <w>pexels</w>
-      <w>piechart</w>
-      <w>pocock</w>
       <w>pois</w>
-      <w>popconfirm</w>
-      <w>popupclose</w>
-      <w>popupopen</w>
-      <w>preallocated</w>
-      <w>pressable</w>
-      <w>prostore</w>
-      <w>rdparty</w>
-      <w>redirector</w>
-      <w>refetch</w>
       <w>saveparameters</w>
-      <w>selectbox</w>
       <w>semibold</w>
-      <w>serie</w>
-      <w>shortdash</w>
-      <w>shortdot</w>
       <w>shorttime</w>
-      <w>sider</w>
       <w>signin</w>
-      <w>simpleshape</w>
-      <w>sirket</w>
-      <w>snakeend</w>
-      <w>snakestart</w>
-      <w>spiderfy</w>
-      <w>splitted</w>
-      <w>substate</w>
-      <w>summaryheatmap</w>
-      <w>summaryreport</w>
-      <w>supabase</w>
       <w>supercat</w>
-      <w>sıcaklık</w>
-      <w>sınırda</w>
-      <w>tabpane</w>
-      <w>tanstack</w>
-      <w>tarih</w>
-      <w>telematic</w>
-      <w>telematics</w>
       <w>telematik</w>
-      <w>tickmark</w>
-      <w>timebar</w>
-      <w>toggler</w>
-      <w>tooltipclose</w>
-      <w>tooltipopen</w>
-      <w>topleft</w>
-      <w>trackerfilter</w>
-      <w>traversy</w>
-      <w>treenode</w>
       <w>triomobil</w>
-      <w>trueai</w>
-      <w>türkçe</w>
-      <w>unidiff</w>
-      <w>unsubscriber</w>
-      <w>uploadthing</w>
       <w>upstash</w>
-      <w>varela</w>
-      <w>varh</w>
       <w>voteme</w>
-      <w>widgetlabel</w>
-      <w>xcount</w>
-      <w>xoss</w>
-      <w>xrange</w>
-      <w>xxxx</w>
-      <w>zustand</w>
     </words>
   </component>
 </application>
