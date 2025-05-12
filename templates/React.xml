@@ -18,30 +18,8 @@
   <template name="con" value="constructor(props) {&#10;    super(props);&#10;    $END$&#10;}&#10;" description="Adds a default constructor for the class that contains props as arguments" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
-  <template name="nrsc" value="export default function $componentName$($props$) {&#10;$END$&#10;};" description="Creates a stateless React component without PropTypes and ES6 module system" toReformat="true" toShortenFQNames="true">
-    <variable name="componentName" expression="fileNameWithoutExtension()" defaultValue="&quot;MyComponent&quot;" alwaysStopAt="true" />
-    <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
-      <option name="TS_TOP_LEVEL_STATEMENT" value="true" />
-    </context>
-  </template>
   <template name="rcc" value="import React, { Component } from 'react';&#10;&#10;class $TM_FILENAME_BASE$ extends Component {&#10; render() {&#10;  return (&#10;   &lt;div&gt;&#10;    $END$&#10;   &lt;/div&gt;&#10;  );&#10; }&#10;}&#10;&#10;export default $TM_FILENAME_BASE$;" description="Creates a A higher-order component" toReformat="true" toShortenFQNames="true">
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
-  </template>
-  <template name="useEffect" value="useEffect(() =&gt; {&#10;  return () =&gt; {&#10;    $effect$&#10;  };&#10;}, [$input$]);&#10;$END$" description="useEffect" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <variable name="effect" expression="" defaultValue="&quot;effect&quot;" alwaysStopAt="true" />
-    <variable name="input" expression="" defaultValue="&quot;input&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="rscc" value="const $componentName$ = $async$ ($props$) =&gt; {&#10;  return (&#10;    &lt;div&gt;&#10;      $END$&#10;    &lt;/div&gt;&#10;  );&#10;};&#10;&#10;export default $componentName$;&#10;" description="Creates a stateless React component without PropTypes and ES6 module system" toReformat="false" toShortenFQNames="true">
-    <variable name="componentName" expression="fileNameWithoutExtension()" defaultValue="&quot;MyComponent&quot;" alwaysStopAt="true" />
-    <variable name="async" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
-      <option name="TS_TOP_LEVEL_STATEMENT" value="true" />
-    </context>
   </template>
 </templateSet>

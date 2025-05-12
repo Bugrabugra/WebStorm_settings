@@ -32,21 +32,15 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="arf" value="const $NAME$ = $ASYNC$ ($PARAMS$) =&gt; {&#10;  $SELECTION$&#10;};" description="Surround with Arrow Function" toReformat="false" toShortenFQNames="true">
+  <template name="arf" value="const $NAME$ = () =&gt; {&#10;$SELECTION$&#10;};" description="Surround with Arrow Function" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="complete()" defaultValue="" alwaysStopAt="true" />
-    <variable name="ASYNC" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="REACT" value="true" />
-    </context>
+    <context />
   </template>
   <template name="qs" value="const $VARIABLE$ = document.querySelector(&quot;$SELECTOR$&quot;);&#10;$END$" description="query selector" toReformat="false" toShortenFQNames="true">
     <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="SELECTOR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="qsa" value="const $VARIABLE$ = document.querySelectorAll(&quot;$SELECTOR$&quot;);&#10;$END$" description="query selector all" toReformat="false" toShortenFQNames="true">
@@ -54,7 +48,6 @@
     <variable name="SELECTOR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="tc" value="try {&#10;  $TRY$&#10;} catch(error) {&#10;  $CATCH$&#10;}" description="try {} catch(error) {}" toReformat="false" toShortenFQNames="true">
@@ -65,25 +58,6 @@
       <option name="REACT" value="true" />
       <option name="TypeScript" value="true" />
       <option name="Vue" value="true" />
-    </context>
-  </template>
-  <template name="eaf" value="export async function $name$($params$) {&#10;  $code$&#10;}" description="Export async function" toReformat="true" toShortenFQNames="true">
-    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="earf" value="export const $NAME$ = $ASYNC$ ($PARAMS$) =&gt; {&#10;  $SELECTION$&#10;};" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="ASYNC" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="REACT" value="true" />
-      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>
