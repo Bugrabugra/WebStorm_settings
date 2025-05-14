@@ -12,9 +12,10 @@
     </shellToExecutedCommandsNumber>
   </component>
   <component name="ReworkedTerminalUsage"><![CDATA[{
-  "enterKeyPressedTimes": 7
+  "enterKeyPressedTimes": 8
 }]]></component>
   <component name="TerminalOptionsProvider">
+    <option name="myCopyOnSelection" value="true" />
     <option name="terminalEngine" value="REWORKED" />
   </component>
 </application>
