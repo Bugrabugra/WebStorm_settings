@@ -100,28 +100,49 @@
       ],
       "v2": [
         {
+          "id": "GraphQL",
+          "order": 0,
+          "isShowStripeButton": false,
+          "weight": 0.40380436,
+          "isSplit": true
+        },
+        {
           "id": "Pull Requests",
-          "weight": 0.25068027
+          "order": 1,
+          "weight": 0.20034014,
+          "sideWeight": 0.5005787
         },
         {
           "id": "VcsChanges",
-          "weight": 0.19829932
+          "order": 2,
+          "weight": 0.19013605
         },
         {
-          "id": "TODO",
-          "anchor": "BOTTOM",
-          "weight": 0.3298913
+          "id": "Welcome to SonarQube for IDE",
+          "order": 3,
+          "isShowStripeButton": false
         },
         {
-          "id": "Services",
-          "anchor": "BOTTOM",
-          "weight": 0.3298913
+          "id": "AIAssistant",
+          "order": 4,
+          "isShowStripeButton": false,
+          "weight": 0.23435375,
+          "sideWeight": 0.4994213,
+          "isSplit": true
+        },
+        {
+          "id": "ElectroJunToolWindow",
+          "order": 5,
+          "isShowStripeButton": false,
+          "weight": 0.23843537,
+          "isSplit": true
         },
         {
           "id": "Structure",
           "order": 0,
           "anchor": "BOTTOM",
-          "weight": 0.25054348,
+          "weight": 0.3831522,
+          "sideWeight": 0.49964386,
           "isSplit": true
         },
         {
@@ -136,77 +157,133 @@
           "id": "Notifications",
           "order": 2,
           "anchor": "BOTTOM",
-          "weight": 0.3298913,
+          "weight": 0.3831522,
+          "sideWeight": 0.49964386,
           "isSplit": true
         },
         {
           "id": "npm",
           "order": 3,
           "anchor": "BOTTOM",
-          "weight": 0.3298913,
-          "isSplit": true
-        },
-        {
-          "id": "Bookmarks",
-          "order": 4,
-          "anchor": "BOTTOM",
-          "weight": 0.3302721,
+          "weight": 0.3831522,
+          "sideWeight": 0.44195157,
           "isSplit": true
         },
         {
           "id": "Version Control",
-          "order": 5,
+          "order": 4,
           "anchor": "BOTTOM",
-          "weight": 0.3298913
+          "weight": 0.3831522,
+          "sideWeight": 0.50035614
         },
         {
           "id": "Terminal",
-          "order": 6,
+          "order": 5,
           "anchor": "BOTTOM",
-          "weight": 0.3298913
+          "weight": 0.3831522,
+          "sideWeight": 0.50035614
         },
         {
           "id": "Problems",
-          "order": 7,
+          "order": 6,
           "anchor": "BOTTOM"
         },
         {
           "id": "Problems View",
-          "order": 8,
+          "order": 7,
           "anchor": "BOTTOM",
-          "weight": 0.3298913
+          "weight": 0.3831522
         },
         {
           "id": "Quokka",
-          "order": 9,
+          "order": 8,
           "anchor": "BOTTOM",
-          "weight": 0.3298913
-        },
-        {
-          "id": "GraphQL",
-          "order": 10,
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
+          "weight": 0.3831522
         },
         {
           "id": "Run",
-          "order": 11,
+          "order": 9,
           "anchor": "BOTTOM",
           "isShowStripeButton": false,
+          "weight": 0.3831522,
+          "sideWeight": 0.5580484
+        },
+        {
+          "id": "Duplicates",
+          "order": 10,
+          "anchor": "BOTTOM",
           "weight": 0.3298913
+        },
+        {
+          "id": "Messages",
+          "order": 11,
+          "anchor": "BOTTOM",
+          "weight": 0.3831522
         },
         {
           "id": "SonarLint",
           "order": 12,
           "anchor": "BOTTOM",
-          "weight": 0.3298913
+          "weight": 0.3831522
+        },
+        {
+          "id": "Debug",
+          "order": 13,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.3831522
+        },
+        {
+          "id": "TODO",
+          "order": 14,
+          "anchor": "BOTTOM",
+          "weight": 0.3831522
+        },
+        {
+          "id": "SonarQube for IDE",
+          "order": 15,
+          "anchor": "BOTTOM",
+          "weight": 0.3831522
+        },
+        {
+          "id": "Services",
+          "order": 16,
+          "anchor": "BOTTOM",
+          "weight": 0.3831522
+        },
+        {
+          "id": "Find",
+          "order": 17,
+          "anchor": "BOTTOM",
+          "weight": 0.3831522
+        },
+        {
+          "id": "documentation.v2",
+          "anchor": "RIGHT",
+          "floatingBounds": [
+            492,
+            65,
+            485,
+            862
+          ],
+          "type": "FLOATING",
+          "isActiveOnStart": true,
+          "weight": 0.3302721,
+          "isSplit": true
         },
         {
           "id": "Project",
           "order": 0,
           "anchor": "RIGHT",
+          "floatingBounds": [
+            979,
+            122,
+            317,
+            834
+          ],
           "contentUiType": "COMBO",
-          "weight": 0.22755101
+          "weight": 0.22210884,
+          "sideWeight": 0.5329861
         },
         {
           "id": "Commit",
@@ -214,13 +291,14 @@
           "anchor": "RIGHT",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.22755101
+          "weight": 0.22210884,
+          "sideWeight": 0.5209832
         },
         {
           "id": "Database",
           "order": 2,
           "anchor": "RIGHT",
-          "weight": 0.25
+          "weight": 0.26836735
         },
         {
           "id": "Gradle",
@@ -239,13 +317,38 @@
           "order": 5,
           "anchor": "RIGHT",
           "weight": 0.25
+        },
+        {
+          "id": "Bookmarks",
+          "order": 6,
+          "anchor": "RIGHT",
+          "weight": 0.21394558,
+          "sideWeight": 0.4670139,
+          "isSplit": true
+        },
+        {
+          "id": "Coverage",
+          "order": 7,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.21734694,
+          "sideWeight": 0.47858796,
+          "isSplit": true
+        },
+        {
+          "id": "Tabnine Chat",
+          "order": 8,
+          "anchor": "RIGHT",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.22755101
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.25068027,
-        "bottom": 0.3298913,
-        "right": 0.22755101
+        "left": 0.20034014,
+        "bottom": 0.3831522,
+        "right": 0.22210884
       }
     }
   }
