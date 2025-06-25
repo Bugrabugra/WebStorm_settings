@@ -1,0 +1,15 @@
+<application>
+  <component name="KafkaSettings">
+    <option name="configs">
+      <map>
+        <entry key="Kafka@KafkaConnections@-6853924654940228108">
+          <value>
+            <KafkaClusterConfig />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="dataUpdateIntervalMillis" value="5000" />
+    <option name="selectedConnectionId" value="Kafka@KafkaConnections@-6853924654940228108" />
+  </component>
+</application>
