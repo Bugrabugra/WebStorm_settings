@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
@@ -22,9 +23,9 @@
     <mask>*.mts</mask>
     <mask>*.ats</mask>
     <mask>*.cts</mask>
-    <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
