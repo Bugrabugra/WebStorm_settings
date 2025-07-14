@@ -3,7 +3,13 @@
     <words>
       <w>canbus</w>
       <w>configapi</w>
+      <w>datatablemonthyear</w>
+      <w>datatablesec</w>
+      <w>datatableyear</w>
       <w>dateday</w>
+      <w>datedaylong</w>
+      <w>datepickerdateyear</w>
+      <w>daterangepicker</w>
       <w>devicelist</w>
       <w>dijitaltesis</w>
       <w>dynamix</w>
