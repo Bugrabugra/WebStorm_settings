@@ -1,7 +1,7 @@
 <application>
   <component name="FindUsagesSettings">
-    <option name="customScope" value="Project 'facility'" />
-    <option name="defaultScopeName" value="Project 'facility'" />
-    <option name="SEARCH_SCOPE" value="Project 'facility'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
   </component>
 </application>
