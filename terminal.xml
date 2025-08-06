@@ -11,10 +11,10 @@
       <entry key="zsh" value="140" />
     </shellToExecutedCommandsNumber>
   </component>
-  <component name="ReworkedTerminalUsage">{
-  &quot;feedbackNotificationShown&quot;: true,
-  &quot;enterKeyPressedTimes&quot;: 402
-}</component>
+  <component name="ReworkedTerminalUsage"><![CDATA[{
+  "feedbackNotificationShown": true,
+  "enterKeyPressedTimes": 407
+}]]></component>
   <component name="TerminalOptionsProvider">
     <option name="myCopyOnSelection" value="true" />
   </component>
