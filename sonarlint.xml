@@ -1,7 +1,6 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="focusOnNewCode" value="true" />
-    <option name="nodejsPath" value="$USER_HOME$/.nvm/versions/node/v21.1.0/bin/node" />
+    <option name="nodejsPath" value="$USER_HOME$/.nvm/versions/node/v22.12.0/bin/node" />
     <option name="rulesByKey">
       <map>
         <entry key="Web:S5264">
