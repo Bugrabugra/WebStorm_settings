@@ -1,5 +1,6 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="focusOnNewCode" value="true" />
     <option name="nodejsPath" value="$USER_HOME$/.nvm/versions/node/v21.1.0/bin/node" />
     <option name="rulesByKey">
       <map>
@@ -37,8 +38,8 @@
       </list>
     </option>
     <rules>
-      <Rule active="false" key="Web:S6819" />
       <Rule active="false" key="typescript:S2187" />
+      <Rule active="false" key="Web:S6819" />
       <Rule active="false" key="Web:S5264" />
       <Rule active="false" key="typescript:S6757" />
     </rules>
