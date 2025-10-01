@@ -30,7 +30,6 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonarcloud.io" />
-          <token>df98df92df93df92dfcedf9bdf9edf9ddfcedf9edf9bdf93dfcfdfccdf9fdfccdfccdfccdf93dfcfdf92df9adf9adf9fdf9bdf9edf98df98dfccdf9bdf98df99df9cdf99df93df99dfc8dfc9dfcedf93</token>
           <option name="name" value="sonarcloud" />
           <organizationKey>triomobil</organizationKey>
         </SonarQubeServer>
