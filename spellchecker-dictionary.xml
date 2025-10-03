@@ -1,6 +1,7 @@
 <application>
   <component name="CachedDictionaryState">
     <words>
+      <w>bounceend</w>
       <w>canbus</w>
       <w>configapi</w>
       <w>datatablemonthyear</w>
@@ -29,6 +30,8 @@
       <w>nunchucks</w>
       <w>oday</w>
       <w>pois</w>
+      <w>popupclose</w>
+      <w>popupopen</w>
       <w>saveparameters</w>
       <w>semibold</w>
       <w>shorttime</w>
@@ -38,6 +41,8 @@
       <w>supercat</w>
       <w>telematik</w>
       <w>timebar</w>
+      <w>tooltipclose</w>
+      <w>tooltipopen</w>
       <w>triomobil</w>
       <w>trueai</w>
       <w>türkçe</w>
