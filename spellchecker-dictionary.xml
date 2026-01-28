@@ -34,6 +34,7 @@
       <w>msec</w>
       <w>nbus</w>
       <w>nbuses</w>
+      <w>nodevalue</w>
       <w>nodevice</w>
       <w>nunchucks</w>
       <w>oday</w>
@@ -60,6 +61,7 @@
       <w>unidiff</w>
       <w>upstash</w>
       <w>voteme</w>
+      <w>xmlattr</w>
       <w>yarın</w>
     </words>
   </component>
