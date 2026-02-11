@@ -11,13 +11,14 @@
       <entry key="zsh" value="140" />
     </shellToExecutedCommandsNumber>
   </component>
-  <component name="ReworkedTerminalUsage"><![CDATA[{
-  "feedbackNotificationShown": true,
-  "enterKeyPressedTimes": 833,
-  "completionPopupShownTimes": 10,
-  "completionItemChosenTimes": 4
-}]]></component>
+  <component name="ReworkedTerminalUsage">{
+  &quot;feedbackNotificationShown&quot;: true,
+  &quot;enterKeyPressedTimes&quot;: 833,
+  &quot;completionPopupShownTimes&quot;: 10,
+  &quot;completionItemChosenTimes&quot;: 4
+}</component>
   <component name="TerminalOptionsProvider">
     <option name="myCopyOnSelection" value="true" />
+    <option name="useOptionAsMetaKey" value="true" />
   </component>
 </application>
