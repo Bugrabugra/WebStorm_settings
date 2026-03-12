@@ -1,7 +1,7 @@
 <application>
   <component name="com.codeium.intellij.settings.AppSettingsState">
     <option name="enableCascadeToolWindow" value="false" />
+    <option name="nativeCompletionMode" value="autocomplete" />
     <option name="openChatOnReload" value="false" />
-    <option name="supercompleteEnabled" value="false" />
   </component>
 </application>
