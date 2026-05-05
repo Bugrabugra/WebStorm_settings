@@ -1,48 +1,52 @@
 <application>
   <component name="Atom Icon Selections Config">
-    <option name="selectedFolderAssociations">
+    <option name="selectedFileAssociations">
       <SelectedAssociations>
-        <option name="iconType" value="FOLDER" />
-        <option name="ownAssociations">
-          <map>
-            <entry key="Filter ">
-              <value>
-                <RegexAssociation>
-                  <option name="matcher" value="Filter" />
-                  <option name="pattern" value="Filter" />
-                  <option name="touched" value="true" />
-                  <option name="name" value="Filter " />
-                  <option name="icon" value="/folder.svg" />
-                  <option name="priority" value="10000" />
-                  <option name="folderColor" value="dfe1e5" />
-                  <option name="folderIconColor" value="6b9bfa" />
-                </RegexAssociation>
-              </value>
-            </entry>
-          </map>
+        <option name="associationsList">
+          <RegexAssociation>
+            <option name="matcher" value="^(pre|post)-(checkout|commit|merge|rebase|push)(\.sh)?" />
+            <option name="pattern" value="^(pre|post)-(checkout|commit|merge|rebase|push)(\.sh)?" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Husky Hooks" />
+            <option name="icon" value="/icons/files/huskyhooks.svg" />
+            <option name="iconColor" value="64B5F6" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^\.?(sonar-project|sonarcloud)\.(properties|ya?ml)$" />
+            <option name="pattern" value="^\.?(sonar-project|sonarcloud)\.(properties|ya?ml)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="SonarCloud" />
+            <option name="icon" value="/icons/files/sonarcloud.svg" />
+            <option name="iconColor" value="fd6a00" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
-    <option name="selectedFolderOpenAssociations">
+    <option name="selectedFolderAssociations">
       <SelectedAssociations>
         <option name="iconType" value="FOLDER" />
-        <option name="ownAssociations">
-          <map>
-            <entry key="Filter ">
-              <value>
-                <RegexAssociation>
-                  <option name="matcher" value="Filter" />
-                  <option name="pattern" value="Filter" />
-                  <option name="touched" value="true" />
-                  <option name="name" value="Filter " />
-                  <option name="icon" value="/folder.svg" />
-                  <option name="priority" value="10000" />
-                  <option name="folderColor" value="dfe1e5" />
-                  <option name="folderIconColor" value="6b9bfa" />
-                </RegexAssociation>
-              </value>
-            </entry>
-          </map>
+        <option name="associationsList">
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(syntax|syntaxes|spellcheck|grammars?|dicts?|dictionar(y|ies))$" />
+            <option name="pattern" value="^[\._]?(syntax|syntaxes|spellcheck|grammars?|dicts?|dictionar(y|ies))$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Syntax" />
+            <option name="icon" value="/syntax.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="ef5350" />
+            <option name="folderIconColor" value="FFCDD2" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
