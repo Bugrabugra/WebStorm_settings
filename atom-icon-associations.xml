@@ -173,6 +173,19 @@
             <option name="folderIconColor" value="D7CCC8" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(reviews?|reviewed|revisions?|prs?|previews?)$" />
+            <option name="pattern" value="^[\._]?(reviews?|reviewed|revisions?|prs?|previews?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Reviews" />
+            <option name="icon" value="/reviews.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="2196f3" />
+            <option name="folderIconColor" value="bbdefb" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
