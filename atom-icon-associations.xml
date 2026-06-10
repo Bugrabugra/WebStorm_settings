@@ -111,6 +111,18 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^jquery.*\.([jt]s|coffee|es6)$" />
+            <option name="pattern" value="^jquery.*\.([jt]s|coffee|es6)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="jQuery" />
+            <option name="icon" value="/icons/files/jquery.svg" />
+            <option name="iconColor" value="82AAFF" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
