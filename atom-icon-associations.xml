@@ -123,6 +123,18 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.css\.map$" />
+            <option name="pattern" value=".*\.css\.map$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="CSS Map" />
+            <option name="icon" value="/icons/files/cssmap.svg" />
+            <option name="iconColor" value="42a5f5" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
@@ -258,6 +270,19 @@
             <option name="iconColor" />
             <option name="folderColor" value="ec407a" />
             <option name="folderIconColor" value="f8bbd0" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(trash|bin|archived|deprecated|scrap)$" />
+            <option name="pattern" value="^[\._]?(trash|bin|archived|deprecated|scrap)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Trash" />
+            <option name="icon" value="/trash.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="F44336" />
+            <option name="folderIconColor" value="FFCDD2" />
             <option name="iconPack" />
           </RegexAssociation>
         </option>
