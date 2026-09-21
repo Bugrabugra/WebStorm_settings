@@ -1,0 +1,13 @@
+<application>
+  <component name="DoNotAskAppManager">
+    <option name="idToDisplayName">
+      <map>
+        <entry key="LIGHTWEIGHT_LICENSE_NOTIFICATION" value="LIGHTWEIGHT_LICENSE_NOTIFICATION" />
+        <entry key="ML Completion Plugin" value="ML Completion" />
+        <entry key="Plugin Error" value="Plugins failed to load" />
+        <entry key="gittoolbox.fetch.info" value="GitToolBox fetch info" />
+        <entry key="null" value="null" />
+      </map>
+    </option>
+  </component>
+</application>
