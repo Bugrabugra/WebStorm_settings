@@ -2,6 +2,7 @@
   <action id="ActivateBigDataToolWindowToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl meta b" />
   </action>
+  <action id="ActivateBookmarksToolWindow" />
   <action id="ChangesView.Move" />
   <action id="ChangesView.SetDefault" />
   <action id="CodeInspection.OnEditor" />
@@ -30,6 +31,7 @@
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="RecentChanges" />
+  <action id="RunAnything" />
   <action id="SelectVirtualTemplateElement" />
   <action id="SplitChooser" />
   <action id="StepOver" />
