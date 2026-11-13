@@ -204,4 +204,39 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="map" value="&lt;map name=&quot;$VAR0$&quot;&gt;$END$&lt;/map&gt;" description="&lt;map name=&quot;...&quot;&gt;...&lt;/map&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="area" value="&lt;area shape=&quot;$VAR0$&quot; coords=&quot;$VAR1$&quot; href=&quot;$VAR2$&quot; alt=&quot;$VAR3$&quot;&gt;" description="&lt;area shape=&quot;...&quot; coords=&quot;...&quot; href=&quot;...&quot; alt=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="area:d" value="&lt;area shape=&quot;default&quot; coords=&quot;$COORDS$&quot; href=&quot;$VAR0$&quot; alt=&quot;$VAR1$&quot;&gt;" description="&lt;area shape=&quot;default&quot; coords=&quot;...&quot; href=&quot;...&quot; alt=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="COORDS" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="area:c" value="&lt;area shape=&quot;circle&quot; coords=&quot;$VAR0$&quot; href=&quot;$VAR1$&quot; alt=&quot;$VAR2$&quot;&gt;" description="&lt;area shape=&quot;circle&quot; coords=&quot;...&quot; href=&quot;...&quot; alt=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="area:r" value="&lt;area shape=&quot;rect&quot; coords=&quot;$VAR0$&quot; href=&quot;$VAR1$&quot; alt=&quot;$VAR2$&quot;&gt;" description="&lt;area shape=&quot;rect&quot; coords=&quot;...&quot; href=&quot;...&quot; alt=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="area:p" value="&lt;area shape=&quot;poly&quot; coords=&quot;$VAR0$&quot; href=&quot;$VAR1$&quot; alt=&quot;$VAR2$&quot;&gt;" description="&lt;area shape=&quot;poly&quot; coords=&quot;...&quot; href=&quot;...&quot; alt=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
