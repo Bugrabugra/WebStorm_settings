@@ -1,6 +1,16 @@
 <application>
   <component name="NextEditSettings"><![CDATA[{
-  "legacyMlCompletionResetApplied": true
+  "legacyMlCompletionResetApplied": true,
+  "limitFileTypes": true,
+  "languageToEnabled": {
+    "html": true,
+    "javascript.typescript": true,
+    "css": true,
+    "xml": true,
+    "yaml": true,
+    "json": true,
+    "markdown": true
+  }
 }]]></component>
   <component name="NextEditUnifiedModelMigrationState">
     <option name="migrationDone" value="true" />
